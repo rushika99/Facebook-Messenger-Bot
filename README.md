@@ -1,5 +1,5 @@
 # Facebook Messenger bot using Node.js
-Create a Facebook Messenger bot using Node.js.
+Create a Facebook Messenger bot using Node.js. 
 ### Requirements:
    1. Install node and request.
 
