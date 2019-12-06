@@ -13,7 +13,7 @@ Create a Facebook Messenger bot using Node.js.
 
 
 ### Steps to follow:
-  1. Download the folder and open **index.js** on any source-code editor.
+  1. Download the zip file and unzip it. Open **index.js** on any source-code editor.
   2. Paste the access token:
   
   ![alt text](https://github.com/rushika99/Facebook-Messenger-Bot/blob/master/github.png)
