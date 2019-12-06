@@ -24,7 +24,7 @@ Create a Facebook Messenger bot using Node.js.
       ./ngrok http 5000
       ```
       
-  ![alt text](https://github.com/treddykirusa/FBMessenger/blob/master/ngrok.png)
+  ![alt text](https://github.com/rushika99/Facebook-Messenger-Bot/blob/master/ngrok.png)
   
   4. Run the file
       ```javascript
