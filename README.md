@@ -30,4 +30,11 @@ Create a Facebook Messenger bot using Node.js.
       ```javascript
       node index.js
       ```
+  5. Copy the URL generated above and append _/webhook_ and paste it in the 'Callback URL' of your Facebook App and set the            'Verify Token' as _hello_.
+  
+  ![alt text](https://github.com/rushika99/Facebook-Messenger-Bot/blob/master/callback.png)
+  
+  6. You're good to go!
+
+  ![alt text]()
       
