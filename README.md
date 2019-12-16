@@ -36,5 +36,5 @@ Create a Facebook Messenger bot using Node.js.
   
   6. You're good to go!
 
-  ![alt text]()
+  ![alt text](https://github.com/rushika99/Facebook-Messenger-Bot/blob/master/output.png)
       
